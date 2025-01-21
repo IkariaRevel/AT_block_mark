@@ -1,0 +1,30 @@
+# Blocklist for use with hosts files to block ads, trackers, and other nasty things
+#
+# For more information about this list, see: https://pgl.yoyo.org/adservers/
+# ----
+# last updated:   Wed, 15 Jan 2025 14:33:58 GMT
+# entries:        3548
+# format:         hosts (hosts -- in hosts file format)
+# credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
+# this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext
+# Patreon:        https://patreon.com/blocklist
+# other formats:  https://pgl.yoyo.org/adservers/formats.php
+# policy:         https://pgl.yoyo.org/adservers/policy.php
+#
+# start date:    Fri, 06 Jun 2003 00:00:00
+127.0.0.1 1-1ads.com
+127.0.0.1 101com.com
+127.0.0.1 180hits.de
+127.0.0.1 180searchassistant.com
+127.0.0.1 1rx.io
+127.0.0.1 2020mustang.com
+127.0.0.1 207.net
+127.0.0.1 247media.com
+127.0.0.1 24log.com
+127.0.0.1 24pm-affiliation.com
+127.0.0.1 2linkpath.com
+127.0.0.1 2mdn.net
+127.0.0.1 2o7.net
+127.0.0.1 2znp09oa.com
+127.0.0.1 30ads.com
+127.0.0.1 3337723.com
