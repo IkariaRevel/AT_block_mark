@@ -122,7 +122,8 @@ author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/ms_la_fay"]):style(background-color: #fff0fe !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/ihudu"]):style(background-color: #fff0fe !important)		
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/ihudu"]):style(background-color: #fff0fe !important)
-
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/chtangotron631"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/chtangotron631"]):style(background-color: #fff0fe !important)		
 
 
 
