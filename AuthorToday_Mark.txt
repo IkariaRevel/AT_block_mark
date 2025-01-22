@@ -111,6 +111,13 @@ author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/vinegaroo"]):style(background-color: #fff0fe !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/injik380"]):style(background-color: #fff0fe !important)		
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/injik380"]):style(background-color: #fff0fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/savelyev_stepa"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/savelyev_stepa"]):style(background-color: #fff0fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/olgyz"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/olgyz"]):style(background-color: #fff0fe !important)	
+
+
+
 
 
 
