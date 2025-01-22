@@ -1,4 +1,4 @@
-!Author Today https://author.today
+! Title: AuthorToday mark comments - https://author.today
 
 !Комментарии
 !Норм
