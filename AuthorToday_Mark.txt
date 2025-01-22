@@ -128,7 +128,15 @@ author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/len_kiseleva"]):style(background-color: #fff0fe !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/ty5key"]):style(background-color: #fff0fe !important)		
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/ty5key"]):style(background-color: #fff0fe !important)		
-
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/id557234"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/id557234"]):style(background-color: #fff0fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/silmat_ne"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/silmat_ne"]):style(background-color: #fff0fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/darkto"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/darkto"]):style(background-color: #fff0fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/tomashide1"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/tomashide1"]):style(background-color: #fff0fe !important)		
+	
 
 
 
