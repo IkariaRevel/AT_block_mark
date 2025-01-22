@@ -59,8 +59,6 @@ author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/tonganets"]):style(background-color: #ffedeb !important)
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/korolevatv2011"]):style(background-color: #ffedeb !important)
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/korolevatv2011"]):style(background-color: #ffedeb !important)
-author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/socolik"]):style(background-color: #ffedeb !important)
-author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/socolik"]):style(background-color: #ffedeb !important)
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/karelwintersky"]):style(background-color: #ffedeb !important)
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/karelwintersky"]):style(background-color: #ffedeb !important)
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/id8859861"]):style(background-color: #ffedeb !important)
@@ -90,6 +88,16 @@ author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[h
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/rozalievandrey"]):style(background-color: #ffedeb !important)		
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/rozalievandrey"]):style(background-color: #ffedeb !important)		
 
+!Шакалы - Седрикотовцы и т.п.
+!
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/abcde_eee"]):style(background-color: #ffe5fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/abcde_eee"]):style(background-color: #ffe5fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/socolik"]):style(background-color: #ffe5fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/socolik"]):style(background-color: #ffe5fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/kyoka_suigetsu"]):style(background-color: #ffe5fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/kyoka_suigetsu"]):style(background-color: #ffe5fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/dallterpainass"]):style(background-color: #ffe5fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/dallterpainass"]):style(background-color: #ffe5fe !important)		
 
 
 !Хохлы и русофобы
