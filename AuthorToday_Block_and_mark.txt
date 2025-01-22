@@ -1,8 +1,8 @@
-! Title: Author.Today - Block and Mark
 !Author Today https://author.today
 
 !Комментарии
 !Норм
+!
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/aegis_7"]):style(background-color: #ebffee !important)
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/aegis_7"]):style(background-color: #ebffee !important)
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/voicevladislav"]):style(background-color: #ebffee !important)
@@ -33,6 +33,13 @@ author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/dzmitryshpakouski"]):style(background-color: #ebffee !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/uglovsky"]):style(background-color: #ebffee !important)		
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/uglovsky"]):style(background-color: #ebffee !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/arxanskayavolna"]):style(background-color: #ebffee !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/arxanskayavolna"]):style(background-color: #ebffee !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/duke"]):style(background-color: #ebffee !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/duke"]):style(background-color: #ebffee !important)				
+
+
+
 
 
 
@@ -41,6 +48,7 @@ author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[h
 
 
 !Плохо
+!
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/ellex"]):style(background-color: #ffedeb !important)
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/ellex"]):style(background-color: #ffedeb !important)
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/tonganets"]):style(background-color: #ffedeb !important)
@@ -70,4 +78,17 @@ author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[h
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/yulia_zhukova"]):style(background-color: #ffedeb !important)		
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/yulia_zhukova"]):style(background-color: #ffedeb !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/hypercat"]):style(background-color: #ffedeb !important)		
-author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/hypercat"]):style(background-color: #ffedeb !important)	
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/hypercat"]):style(background-color: #ffedeb !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/id332956987"]):style(background-color: #ffedeb !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/id332956987"]):style(background-color: #ffedeb !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/paveleff"]):style(background-color: #ffedeb !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/paveleff"]):style(background-color: #ffedeb !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/rozalievandrey"]):style(background-color: #ffedeb !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/rozalievandrey"]):style(background-color: #ffedeb !important)		
+
+
+
+!Хохлы и русофобы
+!
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/andreyshulc87"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/andreyshulc87"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)		
