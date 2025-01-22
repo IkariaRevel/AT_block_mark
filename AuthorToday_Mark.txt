@@ -90,14 +90,14 @@ author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[h
 
 !Шакалы - Седрикотовцы и т.п.
 !
-author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/abcde_eee"]):style(background-color: #ffe5fe !important)		
-author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/abcde_eee"]):style(background-color: #ffe5fe !important)		
-author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/socolik"]):style(background-color: #ffe5fe !important)		
-author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/socolik"]):style(background-color: #ffe5fe !important)		
-author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/kyoka_suigetsu"]):style(background-color: #ffe5fe !important)		
-author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/kyoka_suigetsu"]):style(background-color: #ffe5fe !important)		
-author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/dallterpainass"]):style(background-color: #ffe5fe !important)		
-author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/dallterpainass"]):style(background-color: #ffe5fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/abcde_eee"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/abcde_eee"]):style(background-color: #fff0fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/socolik"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/socolik"]):style(background-color: #fff0fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/kyoka_suigetsu"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/kyoka_suigetsu"]):style(background-color: #fff0fe !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/dallterpainass"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/dallterpainass"]):style(background-color: #fff0fe !important)		
 
 
 !Хохлы и русофобы
