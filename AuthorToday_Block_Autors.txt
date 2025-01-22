@@ -1,0 +1,186 @@
+! Title: AuthorToday Block Authors - https://author.today
+!
+! недостаток - ###search-results > div.book-row:has(a[href*=""]) удаляет результаты поиска 2го вида (как в виджетах)
+
+###search-results > div.book-row:has(a[href*="/u/tonganets"])
+##tbody > tr:has(a[href*="/u/tonganets"])
+##div.bookcard:has(a[href*="/u/tonganets"])
+##.work-widget-list > div.book-row:has(a[href*="/u/tonganets"])
+
+###search-results > div.book-row:has(a[href*="/u/rozalievandrey"])
+##tbody > tr:has(a[href*="/u/rozalievandrey"])
+##div.bookcard:has(a[href*="/u/rozalievandrey"])
+##.work-widget-list > div.book-row:has(a[href*="/u/rozalievandrey"])
+
+###search-results > div.book-row:has(a[href*="/u/krygent"])
+##tbody > tr:has(a[href*="/u/krygent"])
+##div.bookcard:has(a[href*="/u/krygent"])
+##.work-widget-list > div.book-row:has(a[href*="/u/krygent"])
+
+###search-results > div.book-row:has(a[href*="/u/bakalavr_zot"])
+##tbody > tr:has(a[href*="/u/bakalavr_zot"])
+##div.bookcard:has(a[href*="/u/bakalavr_zot"])
+##.work-widget-list > div.book-row:has(a[href*="/u/bakalavr_zot"])
+
+###search-results > div.book-row:has(a[href*="/u/voidestcraft1"])
+##tbody > tr:has(a[href*="/u/voidestcraft1"])
+##div.bookcard:has(a[href*="/u/voidestcraft1"])
+##.work-widget-list > div.book-row:has(a[href*="/u/voidestcraft1"])
+
+###search-results > div.book-row:has(a[href*="/u/breanor11"])
+##tbody > tr:has(a[href*="/u/breanor11"])
+##div.bookcard:has(a[href*="/u/breanor11"])
+##.work-widget-list > div.book-row:has(a[href*="/u/breanor11"])
+
+###search-results > div.book-row:has(a[href*="/u/cirdan"])
+##tbody > tr:has(a[href*="/u/cirdan"])
+##div.bookcard:has(a[href*="/u/cirdan"])
+##.work-widget-list > div.book-row:has(a[href*="/u/cirdan"])
+
+###search-results > div.book-row:has(a[href*="/u/id85018614"])
+##tbody > tr:has(a[href*="/u/id85018614"])
+##div.bookcard:has(a[href*="/u/id85018614"])
+##.work-widget-list > div.book-row:has(a[href*="/u/id85018614"])
+
+###search-results > div.book-row:has(a[href*="/u/id313810362"])
+##tbody > tr:has(a[href*="/u/id313810362"])
+##div.bookcard:has(a[href*="/u/id313810362"])
+##.work-widget-list > div.book-row:has(a[href*="/u/id313810362"])
+
+###search-results > div.book-row:has(a[href*="/u/tkachevanse"])
+##tbody > tr:has(a[href*="/u/tkachevanse"])
+##div.bookcard:has(a[href*="/u/tkachevanse"])
+##.work-widget-list > div.book-row:has(a[href*="/u/tkachevanse"])
+
+###search-results > div.book-row:has(a[href*="/u/pavelvyach"])
+##tbody > tr:has(a[href*="/u/pavelvyach"])
+##div.bookcard:has(a[href*="/u/pavelvyach"])
+##.work-widget-list > div.book-row:has(a[href*="/u/pavelvyach"])
+
+###search-results > div.book-row:has(a[href*="/u/id54937541"])
+##tbody > tr:has(a[href*="/u/id54937541"])
+##div.bookcard:has(a[href*="/u/id54937541"])
+##.work-widget-list > div.book-row:has(a[href*="/u/id54937541"])
+
+###search-results > div.book-row:has(a[href*="/u/mahanenkovm"])
+##tbody > tr:has(a[href*="/u/mahanenkovm"])
+##div.bookcard:has(a[href*="/u/mahanenkovm"])
+##.work-widget-list > div.book-row:has(a[href*="/u/mahanenkovm"])
+
+###search-results > div.book-row:has(a[href*="/u/id884666"])
+##tbody > tr:has(a[href*="/u/id884666"])
+##div.bookcard:has(a[href*="/u/id884666"])
+##.work-widget-list > div.book-row:has(a[href*="/u/id884666"])
+
+###search-results > div.book-row:has(a[href*="/u/toxicumsasha"])
+##tbody > tr:has(a[href*="/u/toxicumsasha"])
+##div.bookcard:has(a[href*="/u/toxicumsasha"])
+##.work-widget-list > div.book-row:has(a[href*="/u/toxicumsasha"])
+
+###search-results > div.book-row:has(a[href*="/u/kronos"])
+##tbody > tr:has(a[href*="/u/kronos"])
+##div.bookcard:has(a[href*="/u/kronos"])
+##.work-widget-list > div.book-row:has(a[href*="/u/kronos"])
+
+###search-results > div.book-row:has(a[href*="/u/sapfir"])
+##tbody > tr:has(a[href*="/u/sapfir"])
+##div.bookcard:has(a[href*="/u/sapfir"])
+##.work-widget-list > div.book-row:has(a[href*="/u/sapfir"])
+
+###search-results > div.book-row:has(a[href*="/u/yuriyvinokurov"])
+##tbody > tr:has(a[href*="/u/yuriyvinokurov"])
+##div.bookcard:has(a[href*="/u/yuriyvinokurov"])
+##.work-widget-list > div.book-row:has(a[href*="/u/yuriyvinokurov"])
+
+###search-results > div.book-row:has(a[href*="/u/ordan"])
+##tbody > tr:has(a[href*="/u/ordan"])
+##div.bookcard:has(a[href*="/u/ordan"])
+##.work-widget-list > div.book-row:has(a[href*="/u/ordan"])
+
+###search-results > div.book-row:has(a[href*="/u/panaceaforlife"])
+##tbody > tr:has(a[href*="/u/panaceaforlife"])
+##div.bookcard:has(a[href*="/u/panaceaforlife"])
+##.work-widget-list > div.book-row:has(a[href*="/u/panaceaforlife"])
+
+###search-results > div.book-row:has(a[href*="/u/bandilerosv"])
+##tbody > tr:has(a[href*="/u/bandilerosv"])
+##div.bookcard:has(a[href*="/u/bandilerosv"])
+##.work-widget-list > div.book-row:has(a[href*="/u/bandilerosv"])
+
+###search-results > div.book-row:has(a[href*="/u/maledictus_aeternum"])
+##tbody > tr:has(a[href*="/u/maledictus_aeternum"])
+##div.bookcard:has(a[href*="/u/maledictus_aeternum"])
+##.work-widget-list > div.book-row:has(a[href*="/u/maledictus_aeternum"])
+
+###search-results > div.book-row:has(a[href*="/u/kanira"])
+##tbody > tr:has(a[href*="/u/kanira"])
+##div.bookcard:has(a[href*="/u/kanira"])
+##.work-widget-list > div.book-row:has(a[href*="/u/kanira"])
+
+###search-results > div.book-row:has(a[href*="/u/mjasedvvladmir"])
+##tbody > tr:has(a[href*="/u/mjasedvvladmir"])
+##div.bookcard:has(a[href*="/u/mjasedvvladmir"])
+##.work-widget-list > div.book-row:has(a[href*="/u/mjasedvvladmir"])
+
+###search-results > div.book-row:has(a[href*="/u/vladley"])
+##tbody > tr:has(a[href*="/u/vladley"])
+##div.bookcard:has(a[href*="/u/vladley"])
+##.work-widget-list > div.book-row:has(a[href*="/u/vladley"])
+
+###search-results > div.book-row:has(a[href*="/u/cesiumaurum1"])
+##tbody > tr:has(a[href*="/u/cesiumaurum1"])
+##div.bookcard:has(a[href*="/u/cesiumaurum1"])
+##.work-widget-list > div.book-row:has(a[href*="/u/cesiumaurum1"])
+
+###search-results > div.book-row:has(a[href*="/u/jonshaman"])
+##tbody > tr:has(a[href*="/u/jonshaman"])
+##div.bookcard:has(a[href*="/u/jonshaman"])
+##.work-widget-list > div.book-row:has(a[href*="/u/jonshaman"])
+
+###search-results > div.book-row:has(a[href*="/u/harry_uerg"])
+##tbody > tr:has(a[href*="/u/harry_uerg"])
+##div.bookcard:has(a[href*="/u/harry_uerg"])
+##.work-widget-list > div.book-row:has(a[href*="/u/harry_uerg"])
+
+###search-results > div.book-row:has(a[href*="/u/elka256"])
+##tbody > tr:has(a[href*="/u/elka256"])
+##div.bookcard:has(a[href*="/u/elka256"])
+##.work-widget-list > div.book-row:has(a[href*="/u/elka256"])
+
+###search-results > div.book-row:has(a[href*="/u/eugenejullem"])
+##tbody > tr:has(a[href*="/u/eugenejullem"])
+##div.bookcard:has(a[href*="/u/eugenejullem"])
+##.work-widget-list > div.book-row:has(a[href*="/u/eugenejullem"])
+
+###search-results > div.book-row:has(a[href*="/u/wonsovich"])
+##tbody > tr:has(a[href*="/u/wonsovich"])
+##div.bookcard:has(a[href*="/u/wonsovich"])
+##.work-widget-list > div.book-row:has(a[href*="/u/wonsovich"])
+
+###search-results > div.book-row:has(a[href*="/u/jkr"])
+##tbody > tr:has(a[href*="/u/jkr"])
+##div.bookcard:has(a[href*="/u/jkr"])
+##.work-widget-list > div.book-row:has(a[href*="/u/jkr"])
+
+###search-results > div.book-row:has(a[href*="/u/kozak666mur1"])
+##tbody > tr:has(a[href*="/u/kozak666mur1"])
+##div.bookcard:has(a[href*="/u/kozak666mur1"])
+##.work-widget-list > div.book-row:has(a[href*="/u/kozak666mur1"])
+
+###search-results > div.book-row:has(a[href*="/u/hohlov_pavel"])
+##tbody > tr:has(a[href*="/u/hohlov_pavel"])
+##div.bookcard:has(a[href*="/u/hohlov_pavel"])
+##.work-widget-list > div.book-row:has(a[href*="/u/hohlov_pavel"])
+
+###search-results > div.book-row:has(a[href*="/u/kinotin"])
+##tbody > tr:has(a[href*="/u/kinotin"])
+##div.bookcard:has(a[href*="/u/kinotin"])
+##.work-widget-list > div.book-row:has(a[href*="/u/kinotin"])
+
+###search-results > div.book-row:has(a[href*="/u/erli_mouri"])
+##tbody > tr:has(a[href*="/u/erli_mouri"])
+##div.bookcard:has(a[href*="/u/erli_mouri"])
+##.work-widget-list > div.book-row:has(a[href*="/u/erli_mouri"])
+
+
+
