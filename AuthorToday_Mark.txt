@@ -97,7 +97,9 @@ author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[h
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/kyoka_suigetsu"]):style(background-color: #fff0fe !important)		
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/kyoka_suigetsu"]):style(background-color: #fff0fe !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/dallterpainass"]):style(background-color: #fff0fe !important)		
-author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/dallterpainass"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/dallterpainass"]):style(background-color: #fff0fe !important)	
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/imperiumsolaru"]):style(background-color: #fff0fe !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/imperiumsolaru"]):style(background-color: #fff0fe !important)		
 
 
 !Хохлы и русофобы
