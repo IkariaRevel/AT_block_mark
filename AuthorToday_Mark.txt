@@ -37,7 +37,8 @@ author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/arxanskayavolna"]):style(background-color: #ebffee !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/duke"]):style(background-color: #ebffee !important)		
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/duke"]):style(background-color: #ebffee !important)				
-
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/nikirynmeistr"]):style(background-color: #ebffee !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/nikirynmeistr"]):style(background-color: #ebffee !important)		
 
 
 
