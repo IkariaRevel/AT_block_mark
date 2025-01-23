@@ -50,6 +50,10 @@ author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[h
 
 !Плохо
 !
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/fatarthur75"]):style(background-color: #ffedeb !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/fatarthur75"]):style(background-color: #ffedeb !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/russich7771"]):style(background-color: #ffedeb !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/russich7771"]):style(background-color: #ffedeb !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/edwardmart"]):style(background-color: #ffedeb !important)		
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/edwardmart"]):style(background-color: #ffedeb !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/shmeckpeck"]):style(background-color: #ffedeb !important)		
