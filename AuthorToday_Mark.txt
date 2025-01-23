@@ -3,6 +3,8 @@
 !Комментарии
 !Норм
 !
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/id598743"]):style(background-color: #ebffee !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/id598743"]):style(background-color: #ebffee !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/aegis_7"]):style(background-color: #ebffee !important)
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/aegis_7"]):style(background-color: #ebffee !important)
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/voicevladislav"]):style(background-color: #ebffee !important)
