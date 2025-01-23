@@ -488,5 +488,23 @@ author.today##[href="/u/slezasuslika/posts"]:style(color:#980000 !important)
 author.today##[href="/u/slezasuslika/works"]:style(color: #980000 !important)
 author.today##[href="/u/slezasuslika"] > .comment-user-name:style(color: #980000 !important)
 
+author.today###search-results > div.book-row:has(a[href*="/u/findroid"])
+author.today##tbody > tr:has(a[href*="/u/findroid"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/findroid"])
+author.today##div.bookcard:has(a[href*="/u/findroid"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/findroid"])
+author.today##[href="/u/findroid/posts"]:style(color:#980000 !important)
+author.today##[href="/u/findroid/works"]:style(color: #980000 !important)
+author.today##[href="/u/findroid"] > .comment-user-name:style(color: #980000 !important)
+
+author.today###search-results > div.book-row:has(a[href*="/u/focsker"])
+author.today##tbody > tr:has(a[href*="/u/focsker"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/focsker"])
+author.today##div.bookcard:has(a[href*="/u/focsker"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/focsker"])
+author.today##[href="/u/focsker/posts"]:style(color:#980000 !important)
+author.today##[href="/u/focsker/works"]:style(color: #980000 !important)
+author.today##[href="/u/focsker"] > .comment-user-name:style(color: #980000 !important)
+
 
 
