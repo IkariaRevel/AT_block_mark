@@ -506,5 +506,23 @@ author.today##[href="/u/focsker/posts"]:style(color:#980000 !important)
 author.today##[href="/u/focsker/works"]:style(color: #980000 !important)
 author.today##[href="/u/focsker"] > .comment-user-name:style(color: #980000 !important)
 
+author.today###search-results > div.book-row:has(a[href*="/u/daidai7575"])
+author.today##tbody > tr:has(a[href*="/u/daidai7575"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/daidai7575"])
+author.today##div.bookcard:has(a[href*="/u/daidai7575"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/daidai7575"])
+author.today##[href="/u/daidai7575/posts"]:style(color:#980000 !important)
+author.today##[href="/u/daidai7575/works"]:style(color: #980000 !important)
+author.today##[href="/u/daidai7575"] > .comment-user-name:style(color: #980000 !important)
+
+author.today###search-results > div.book-row:has(a[href*="/u/irbisdan"])
+author.today##tbody > tr:has(a[href*="/u/irbisdan"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/irbisdan"])
+author.today##div.bookcard:has(a[href*="/u/irbisdan"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/irbisdan"])
+author.today##[href="/u/irbisdan/posts"]:style(color:#980000 !important)
+author.today##[href="/u/irbisdan/works"]:style(color: #980000 !important)
+author.today##[href="/u/irbisdan"] > .comment-user-name:style(color: #980000 !important)
+
 
 
