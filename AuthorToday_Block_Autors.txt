@@ -569,6 +569,42 @@ author.today##[href="/u/mrwd/posts"]:style(color:#980000 !important)
 author.today##[href="/u/mrwd/works"]:style(color: #980000 !important)
 author.today##[href="/u/mrwd"] > .comment-user-name:style(color: #980000 !important)
 
+author.today###search-results > div.book-row:has(a[href*="/u/mrdog"])
+author.today##tbody > tr:has(a[href*="/u/mrdog"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/mrdog"])
+author.today##div.bookcard:has(a[href*="/u/mrdog"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/mrdog"])
+author.today##[href="/u/mrdog/posts"]:style(color:#980000 !important)
+author.today##[href="/u/mrdog/works"]:style(color: #980000 !important)
+author.today##[href="/u/mrdog"] > .comment-user-name:style(color: #980000 !important)
+
+author.today###search-results > div.book-row:has(a[href*="/u/noslnosl"])
+author.today##tbody > tr:has(a[href*="/u/noslnosl"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/noslnosl"])
+author.today##div.bookcard:has(a[href*="/u/noslnosl"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/noslnosl"])
+author.today##[href="/u/noslnosl/posts"]:style(color:#980000 !important)
+author.today##[href="/u/noslnosl/works"]:style(color: #980000 !important)
+author.today##[href="/u/noslnosl"] > .comment-user-name:style(color: #980000 !important)
+
+author.today###search-results > div.book-row:has(a[href*="/u/sergewiz"])
+author.today##tbody > tr:has(a[href*="/u/sergewiz"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/sergewiz"])
+author.today##div.bookcard:has(a[href*="/u/sergewiz"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/sergewiz"])
+author.today##[href="/u/sergewiz/posts"]:style(color:#980000 !important)
+author.today##[href="/u/sergewiz/works"]:style(color: #980000 !important)
+author.today##[href="/u/sergewiz"] > .comment-user-name:style(color: #980000 !important)
+
+author.today###search-results > div.book-row:has(a[href*="/u/raym78014"])
+author.today##tbody > tr:has(a[href*="/u/raym78014"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/raym78014"])
+author.today##div.bookcard:has(a[href*="/u/raym78014"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/raym78014"])
+author.today##[href="/u/raym78014/posts"]:style(color:#980000 !important)
+author.today##[href="/u/raym78014/works"]:style(color: #980000 !important)
+author.today##[href="/u/raym78014"] > .comment-user-name:style(color: #980000 !important)
+
 
 
 
