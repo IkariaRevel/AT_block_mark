@@ -96,6 +96,12 @@ author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/paveleff"]):style(background-color: #ffedeb !important)		
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/rozalievandrey"]):style(background-color: #ffedeb !important)		
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/rozalievandrey"]):style(background-color: #ffedeb !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/poruchick"]):style(background-color: #ffedeb !important)		
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/poruchick"]):style(background-color: #ffedeb !important)		
+
+
+
+
 
 !Шакалы - Седрикотовцы и т.п.
 !
@@ -158,3 +164,19 @@ author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[h
 !
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/andreyshulc87"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/andreyshulc87"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)		
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/stahanovasd"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/stahanovasd"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)			
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/arladaar"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/arladaar"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/leva_fartoviy"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/leva_fartoviy"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/id642308964"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/id642308964"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/maks_xpanitel"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/maks_xpanitel"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+
+
+
+
+
+
