@@ -160,7 +160,7 @@ author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[h
 
 
 
-!Хохлы и русофобы
+!Хохлы, эльфы и русофобы, лгбткиркоровы
 !
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/andreyshulc87"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/andreyshulc87"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)		
@@ -174,7 +174,8 @@ author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/id642308964"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
 author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/maks_xpanitel"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
 author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/maks_xpanitel"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
-
+author.today##.comments > div.comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/reydalinn"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
+author.today##.replies > .comment-wrapper > .c-allow-edit.c-view.comment:has(a[href*="/u/reydalinn"]):style(background-color: #fceae8;  background-color: #fffce5; border-style: dashed; border-color: #3c78d8; !important)				
 
 
 
