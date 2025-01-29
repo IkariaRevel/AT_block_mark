@@ -605,6 +605,33 @@ author.today##[href="/u/raym78014/posts"]:style(color:#980000 !important)
 author.today##[href="/u/raym78014/works"]:style(color: #980000 !important)
 author.today##[href="/u/raym78014"] > .comment-user-name:style(color: #980000 !important)
 
+author.today###search-results > div.book-row:has(a[href*="/u/saventos"])
+author.today##tbody > tr:has(a[href*="/u/saventos"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/saventos"])
+author.today##div.bookcard:has(a[href*="/u/saventos"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/saventos"])
+author.today##[href="/u/saventos/posts"]:style(color:#980000 !important)
+author.today##[href="/u/saventos/works"]:style(color: #980000 !important)
+author.today##[href="/u/saventos"] > .comment-user-name:style(color: #980000 !important)
+
+author.today###search-results > div.book-row:has(a[href*="/u/siriusdrejk"])
+author.today##tbody > tr:has(a[href*="/u/siriusdrejk"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/siriusdrejk"])
+author.today##div.bookcard:has(a[href*="/u/siriusdrejk"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/siriusdrejk"])
+author.today##[href="/u/siriusdrejk/posts"]:style(color:#980000 !important)
+author.today##[href="/u/siriusdrejk/works"]:style(color: #980000 !important)
+author.today##[href="/u/siriusdrejk"] > .comment-user-name:style(color: #980000 !important)
+
+author.today###search-results > div.book-row:has(a[href*="/u/valeryurich"])
+author.today##tbody > tr:has(a[href*="/u/valeryurich"])
+author.today###search-results > .panel-body > div.book-row:has(a[href*="/u/valeryurich"])
+author.today##div.bookcard:has(a[href*="/u/valeryurich"])
+author.today##.work-widget-list > div.book-row:has(a[href*="/u/valeryurich"])
+author.today##[href="/u/valeryurich/posts"]:style(color:#980000 !important)
+author.today##[href="/u/valeryurich/works"]:style(color: #980000 !important)
+author.today##[href="/u/valeryurich"] > .comment-user-name:style(color: #980000 !important)
+
 
 
 
