@@ -1,18 +1,6 @@
 ! Title: AuthorToday Block Authors - https://author.today
 !
 
-author.today##[href*="/post/192517"]:style(color:#980000 !important)
-author.today##[href="/post/192517"] > .comment-user-name:style(color: #980000 !important)
-author.today##.profile-card > .clearfix:has(a[href*="/post/192517"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
-
-author.today##[href*="/post/201978"]:style(color:#980000 !important)
-author.today##[href="/post/201978"] > .comment-user-name:style(color: #980000 !important)
-author.today##.profile-card > .clearfix:has(a[href*="/post/201978"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
-
-author.today##[href*="/post/203508"]:style(color:#980000 !important)
-author.today##[href="/post/203508"] > .comment-user-name:style(color: #980000 !important)
-author.today##.profile-card > .clearfix:has(a[href*="/post/203508"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
-
 author.today##[href*="/u/adrianadari"]:style(color:#980000 !important)
 author.today##[href="/u/adrianadari"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/adrianadari"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
@@ -157,6 +145,10 @@ author.today##[href*="/u/doroxovmihail"]:style(color:#980000 !important)
 author.today##[href="/u/doroxovmihail"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/doroxovmihail"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href*="/u/dovidovskiy"]:style(color:#980000 !important)
+author.today##[href="/u/dovidovskiy"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/dovidovskiy"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href*="/u/eeai"]:style(color:#980000 !important)
 author.today##[href="/u/eeai"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/eeai"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
@@ -224,6 +216,10 @@ author.today##.profile-card > .clearfix:has(a[href*="/u/gardner"]):style(backgro
 author.today##[href*="/u/gaussx7"]:style(color:#980000 !important)
 author.today##[href="/u/gaussx7"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/gaussx7"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href*="/u/georgebor"]:style(color:#980000 !important)
+author.today##[href="/u/georgebor"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/georgebor"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href*="/u/giorgi131999"]:style(color:#980000 !important)
 author.today##[href="/u/giorgi131999"] > .comment-user-name:style(color: #980000 !important)
