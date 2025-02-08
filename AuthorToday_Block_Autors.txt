@@ -53,10 +53,6 @@ author.today##[href*="/u/antonst16"]:style(color:#980000 !important)
 author.today##[href="/u/antonst16"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/antonst16"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
-author.today##[href*="/u/antonst1623"]:style(color:#980000 !important)
-author.today##[href="/u/antonst1623"] > .comment-user-name:style(color: #980000 !important)
-author.today##.profile-card > .clearfix:has(a[href*="/u/antonst1623"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
-
 author.today##[href*="/u/armanticore"]:style(color:#980000 !important)
 author.today##[href="/u/armanticore"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/armanticore"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
@@ -405,6 +401,10 @@ author.today##[href*="/u/littlemoon"]:style(color:#980000 !important)
 author.today##[href="/u/littlemoon"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/littlemoon"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href*="/u/livdok"]:style(color:#980000 !important)
+author.today##[href="/u/livdok"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/livdok"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href*="/u/lucifer712217"]:style(color:#980000 !important)
 author.today##[href="/u/lucifer712217"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/lucifer712217"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
@@ -432,6 +432,10 @@ author.today##.profile-card > .clearfix:has(a[href*="/u/marco_lis"]):style(backg
 author.today##[href*="/u/markus_kas"]:style(color:#980000 !important)
 author.today##[href="/u/markus_kas"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/markus_kas"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href*="/u/marvinus_fanfics"]:style(color:#980000 !important)
+author.today##[href="/u/marvinus_fanfics"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/marvinus_fanfics"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href*="/u/max_onofras"]:style(color:#980000 !important)
 author.today##[href="/u/max_onofras"] > .comment-user-name:style(color: #980000 !important)
@@ -472,6 +476,10 @@ author.today##.profile-card > .clearfix:has(a[href*="/u/newrealm"]):style(backgr
 author.today##[href*="/u/nidlivion"]:style(color:#980000 !important)
 author.today##[href="/u/nidlivion"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/nidlivion"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href*="/u/nipon_k"]:style(color:#980000 !important)
+author.today##[href="/u/nipon_k"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/nipon_k"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href*="/u/nitwish"]:style(color:#980000 !important)
 author.today##[href="/u/nitwish"] > .comment-user-name:style(color: #980000 !important)
@@ -609,6 +617,10 @@ author.today##[href*="/u/sergeybull"]:style(color:#980000 !important)
 author.today##[href="/u/sergeybull"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/sergeybull"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href*="/u/sergeyvells1"]:style(color:#980000 !important)
+author.today##[href="/u/sergeyvells1"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/sergeyvells1"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href*="/u/siriusdrejk"]:style(color:#980000 !important)
 author.today##[href="/u/siriusdrejk"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/siriusdrejk"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
@@ -624,10 +636,6 @@ author.today##.profile-card > .clearfix:has(a[href*="/u/skaber"]):style(backgrou
 author.today##[href*="/u/slezasuslika"]:style(color:#980000 !important)
 author.today##[href="/u/slezasuslika"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/slezasuslika"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
-
-author.today##[href*="/u/spencer"]:style(color:#980000 !important)
-author.today##[href="/u/spencer"] > .comment-user-name:style(color: #980000 !important)
-author.today##.profile-card > .clearfix:has(a[href*="/u/spencer"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href*="/u/supermassiveasshole"]:style(color:#980000 !important)
 author.today##[href="/u/supermassiveasshole"] > .comment-user-name:style(color: #980000 !important)
