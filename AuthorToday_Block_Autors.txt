@@ -45,6 +45,10 @@ author.today##[href*="/u/anton_kun"]:style(color:#980000 !important)
 author.today##[href="/u/anton_kun"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/anton_kun"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href*="/u/antonshegulin"]:style(color:#980000 !important)
+author.today##[href="/u/antonshegulin"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/antonshegulin"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href*="/u/antonshubin"]:style(color:#980000 !important)
 author.today##[href="/u/antonshubin"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/antonshubin"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
@@ -441,6 +445,10 @@ author.today##[href*="/u/max_onofras"]:style(color:#980000 !important)
 author.today##[href="/u/max_onofras"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/max_onofras"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href*="/u/maximmainer"]:style(color:#980000 !important)
+author.today##[href="/u/maximmainer"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/maximmainer"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href*="/u/medik80"]:style(color:#980000 !important)
 author.today##[href="/u/medik80"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/medik80"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
@@ -472,6 +480,10 @@ author.today##.profile-card > .clearfix:has(a[href*="/u/neumytovk"]):style(backg
 author.today##[href*="/u/newrealm"]:style(color:#980000 !important)
 author.today##[href="/u/newrealm"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/newrealm"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href*="/u/nickolayskiba"]:style(color:#980000 !important)
+author.today##[href="/u/nickolayskiba"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/nickolayskiba"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href*="/u/nidlivion"]:style(color:#980000 !important)
 author.today##[href="/u/nidlivion"] > .comment-user-name:style(color: #980000 !important)
@@ -660,6 +672,10 @@ author.today##.profile-card > .clearfix:has(a[href*="/u/tonganets"]):style(backg
 author.today##[href*="/u/toxicumsasha"]:style(color:#980000 !important)
 author.today##[href="/u/toxicumsasha"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/toxicumsasha"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href*="/u/tygydyk3000"]:style(color:#980000 !important)
+author.today##[href="/u/tygydyk3000"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/tygydyk3000"]):style(background-color: #F6D5D5; border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href*="/u/u89048991809"]:style(color:#980000 !important)
 author.today##[href="/u/u89048991809"] > .comment-user-name:style(color: #980000 !important)
