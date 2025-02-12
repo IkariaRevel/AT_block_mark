@@ -637,6 +637,10 @@ author.today##[href*="/u/sergeyvells1"]:style(color:#980000 !important)
 author.today##[href="/u/sergeyvells1"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/sergeyvells1"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href*="/u/sinigaml"]:style(color:#980000 !important)
+author.today##[href="/u/sinigaml"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/sinigaml"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href*="/u/siriusdrejk"]:style(color:#980000 !important)
 author.today##[href="/u/siriusdrejk"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/siriusdrejk"]):style(border-color: #5B0F00; border-style: ridge; !important)
@@ -696,6 +700,10 @@ author.today##.profile-card > .clearfix:has(a[href*="/u/uglovs"]):style(border-c
 author.today##[href*="/u/ushanishe"]:style(color:#980000 !important)
 author.today##[href="/u/ushanishe"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/ushanishe"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href*="/u/v_yakimov"]:style(color:#980000 !important)
+author.today##[href="/u/v_yakimov"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/v_yakimov"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href*="/u/valeriynovitskiy"]:style(color:#980000 !important)
 author.today##[href="/u/valeriynovitskiy"] > .comment-user-name:style(color: #980000 !important)
