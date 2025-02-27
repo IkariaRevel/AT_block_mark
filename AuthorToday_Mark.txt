@@ -1,5 +1,4 @@
 ! Title: AuthorToday mark comments - https://author.today
-
 author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/andrewponomarev"]):style(background-color: #FFEDEB !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/andrewponomarev"]):style(background-color: #FFEDEB !important)
 author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/bakalavr_zot"]):style(background-color: #FFEDEB !important)
@@ -52,6 +51,8 @@ author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/nikadara"]):style(
 author.today##.profile-card > .clearfix:has(a[href*="/u/nikadara"]):style(background-color: #FFEDEB !important)
 author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/old_land"]):style(background-color: #FFEDEB !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/old_land"]):style(background-color: #FFEDEB !important)
+author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/palek"]):style(background-color: #FFEDEB !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/palek"]):style(background-color: #FFEDEB !important)
 author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/paveleff"]):style(background-color: #FFEDEB !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/paveleff"]):style(background-color: #FFEDEB !important)
 author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/poruchick"]):style(background-color: #FFEDEB !important)
@@ -178,6 +179,8 @@ author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/arladaar"]):style(
 author.today##.profile-card > .clearfix:has(a[href*="/u/arladaar"]):style(background: #E9F1FC; background: linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -webkit-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -moz-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); !important)
 author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/edhifan1"]):style(background: #E9F1FC; background: linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -webkit-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -moz-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/edhifan1"]):style(background: #E9F1FC; background: linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -webkit-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -moz-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); !important)
+author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/id242638735"]):style(background: #E9F1FC; background: linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -webkit-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -moz-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); !important)
+author.today##.profile-card > .clearfix:has(a[href*="/u/id242638735"]):style(background: #E9F1FC; background: linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -webkit-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -moz-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); !important)
 author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/id642308964"]):style(background: #E9F1FC; background: linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -webkit-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -moz-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); !important)
 author.today##.profile-card > .clearfix:has(a[href*="/u/id642308964"]):style(background: #E9F1FC; background: linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -webkit-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -moz-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); !important)
 author.today##div.comment.c-view.c-allow-edit:has(a[href*="/u/izyurovnikolai"]):style(background: #E9F1FC; background: linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -webkit-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); background: -moz-linear-gradient(270deg,#E9F1FC 0%, #FFFBEB 100%); !important)
