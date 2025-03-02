@@ -126,6 +126,11 @@ author.today##[href*="/u/breanor11/"]:style(color:#980000 !important)
 author.today##[href="/u/breanor11"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/breanor11"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href="/u/brokencoin"]:style(color:#980000 !important)
+author.today##[href*="/u/brokencoin/"]:style(color:#980000 !important)
+author.today##[href="/u/brokencoin"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/brokencoin"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href="/u/cesiumaurum1"]:style(color:#980000 !important)
 author.today##[href*="/u/cesiumaurum1/"]:style(color:#980000 !important)
 author.today##[href="/u/cesiumaurum1"] > .comment-user-name:style(color: #980000 !important)
