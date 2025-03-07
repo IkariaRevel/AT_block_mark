@@ -2,6 +2,7 @@
 !
 
 
+
 author.today##[href="/u/adrianadari"]:style(color:#980000 !important)
 author.today##[href*="/u/adrianadari/"]:style(color:#980000 !important)
 author.today##[href="/u/adrianadari"] > .comment-user-name:style(color: #980000 !important)
@@ -31,6 +32,11 @@ author.today##[href="/u/alexhay"]:style(color:#980000 !important)
 author.today##[href*="/u/alexhay/"]:style(color:#980000 !important)
 author.today##[href="/u/alexhay"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/alexhay"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/alexptica"]:style(color:#980000 !important)
+author.today##[href*="/u/alexptica/"]:style(color:#980000 !important)
+author.today##[href="/u/alexptica"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/alexptica"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href="/u/alimtyn"]:style(color:#980000 !important)
 author.today##[href*="/u/alimtyn/"]:style(color:#980000 !important)
@@ -76,6 +82,11 @@ author.today##[href="/u/apanchenko1978"]:style(color:#980000 !important)
 author.today##[href*="/u/apanchenko1978/"]:style(color:#980000 !important)
 author.today##[href="/u/apanchenko1978"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/apanchenko1978"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/arladaar"]:style(color:#980000 !important)
+author.today##[href*="/u/arladaar/"]:style(color:#980000 !important)
+author.today##[href="/u/arladaar"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/arladaar"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href="/u/armanticore"]:style(color:#980000 !important)
 author.today##[href*="/u/armanticore/"]:style(color:#980000 !important)
@@ -281,6 +292,11 @@ author.today##[href="/u/gaussx7"]:style(color:#980000 !important)
 author.today##[href*="/u/gaussx7/"]:style(color:#980000 !important)
 author.today##[href="/u/gaussx7"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/gaussx7"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/gelodelacruz"]:style(color:#980000 !important)
+author.today##[href*="/u/gelodelacruz/"]:style(color:#980000 !important)
+author.today##[href="/u/gelodelacruz"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/gelodelacruz"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href="/u/georgebor"]:style(color:#980000 !important)
 author.today##[href*="/u/georgebor/"]:style(color:#980000 !important)
