@@ -1,8 +1,6 @@
 ! Title: AuthorToday Block Authors - https://author.today
 !
 
-
-
 author.today##[href="/u/adrianadari"]:style(color:#980000 !important)
 author.today##[href*="/u/adrianadari/"]:style(color:#980000 !important)
 author.today##[href="/u/adrianadari"] > .comment-user-name:style(color: #980000 !important)
@@ -622,6 +620,11 @@ author.today##[href="/u/mrwd"]:style(color:#980000 !important)
 author.today##[href*="/u/mrwd/"]:style(color:#980000 !important)
 author.today##[href="/u/mrwd"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/mrwd"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/na5jc34tyrttrfg"]:style(color:#980000 !important)
+author.today##[href*="/u/na5jc34tyrttrfg/"]:style(color:#980000 !important)
+author.today##[href="/u/na5jc34tyrttrfg"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/na5jc34tyrttrfg"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href="/u/nebbiolo"]:style(color:#980000 !important)
 author.today##[href*="/u/nebbiolo/"]:style(color:#980000 !important)
