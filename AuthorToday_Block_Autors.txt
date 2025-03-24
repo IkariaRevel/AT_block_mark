@@ -1,7 +1,6 @@
 ! Title: AuthorToday Block Authors - https://author.today
 !
 
-
 author.today##[href="/u/adrianadari"]:style(color:#980000 !important)
 author.today##[href*="/u/adrianadari/"]:style(color:#980000 !important)
 author.today##[href="/u/adrianadari"] > .comment-user-name:style(color: #980000 !important)
