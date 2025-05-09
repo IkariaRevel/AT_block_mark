@@ -311,6 +311,11 @@ author.today##[href*="/u/giorgi131999/"]:style(color:#980000 !important)
 author.today##[href="/u/giorgi131999"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/giorgi131999"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href="/u/gpletneva"]:style(color:#980000 !important)
+author.today##[href*="/u/gpletneva/"]:style(color:#980000 !important)
+author.today##[href="/u/gpletneva"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/gpletneva"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href="/u/guasumorotianja1"]:style(color:#980000 !important)
 author.today##[href*="/u/guasumorotianja1/"]:style(color:#980000 !important)
 author.today##[href="/u/guasumorotianja1"] > .comment-user-name:style(color: #980000 !important)
