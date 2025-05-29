@@ -996,6 +996,11 @@ author.today##[href*="/u/voitov/"]:style(color:#980000 !important)
 author.today##[href="/u/voitov"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/voitov"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href="/u/volk_avtor"]:style(color:#980000 !important)
+author.today##[href*="/u/volk_avtor/"]:style(color:#980000 !important)
+author.today##[href="/u/volk_avtor"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/volk_avtor"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href="/u/vova280219821"]:style(color:#980000 !important)
 author.today##[href*="/u/vova280219821/"]:style(color:#980000 !important)
 author.today##[href="/u/vova280219821"] > .comment-user-name:style(color: #980000 !important)
