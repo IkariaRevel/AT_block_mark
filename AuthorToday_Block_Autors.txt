@@ -1,6 +1,11 @@
 ! Title: AuthorToday Block Authors - https://author.today
 !
 
+author.today##[href="/u/a_tanner"]:style(color:#980000 !important)
+author.today##[href*="/u/a_tanner/"]:style(color:#980000 !important)
+author.today##[href="/u/a_tanner"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/a_tanner"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href="/u/admirer"]:style(color:#980000 !important)
 author.today##[href*="/u/admirer/"]:style(color:#980000 !important)
 author.today##[href="/u/admirer"] > .comment-user-name:style(color: #980000 !important)
