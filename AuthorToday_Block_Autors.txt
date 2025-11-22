@@ -21,6 +21,16 @@ author.today##[href*="/u/ahgpeu_tretyakov/"]:style(color:#980000 !important)
 author.today##[href="/u/ahgpeu_tretyakov"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/ahgpeu_tretyakov"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href="/u/alejsei_kovtunov_ak"]:style(color:#980000 !important)
+author.today##[href*="/u/alejsei_kovtunov_ak/"]:style(color:#980000 !important)
+author.today##[href="/u/alejsei_kovtunov_ak"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/alejsei_kovtunov_ak"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/Aleksei_Skaz"]:style(color:#980000 !important)
+author.today##[href*="/u/Aleksei_Skaz/"]:style(color:#980000 !important)
+author.today##[href="/u/Aleksei_Skaz"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/Aleksei_Skaz"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href="/u/alenaryu"]:style(color:#980000 !important)
 author.today##[href*="/u/alenaryu/"]:style(color:#980000 !important)
 author.today##[href="/u/alenaryu"] > .comment-user-name:style(color: #980000 !important)
@@ -1225,6 +1235,11 @@ author.today##[href="/u/vica_vn_87"]:style(color:#980000 !important)
 author.today##[href*="/u/vica_vn_87/"]:style(color:#980000 !important)
 author.today##[href="/u/vica_vn_87"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/vica_vn_87"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/victor_grosov"]:style(color:#980000 !important)
+author.today##[href*="/u/victor_grosov/"]:style(color:#980000 !important)
+author.today##[href="/u/victor_grosov"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/victor_grosov"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href="/u/viktor_molotov"]:style(color:#980000 !important)
 author.today##[href*="/u/viktor_molotov/"]:style(color:#980000 !important)
