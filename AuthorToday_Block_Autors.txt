@@ -1,6 +1,11 @@
 ! Title: AuthorToday Block Authors - https://author.today
 !
 
+author.today##[href="/u/__lisa"]:style(color:#980000 !important)
+author.today##[href*="/u/__lisa/"]:style(color:#980000 !important)
+author.today##[href="/u/__lisa"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/__lisa"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href="/u/a_razin"]:style(color:#980000 !important)
 author.today##[href*="/u/a_razin/"]:style(color:#980000 !important)
 author.today##[href="/u/a_razin"] > .comment-user-name:style(color: #980000 !important)
@@ -70,6 +75,11 @@ author.today##[href="/u/alexptica"]:style(color:#980000 !important)
 author.today##[href*="/u/alexptica/"]:style(color:#980000 !important)
 author.today##[href="/u/alexptica"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/alexptica"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/alexsawchuk"]:style(color:#980000 !important)
+author.today##[href*="/u/alexsawchuk/"]:style(color:#980000 !important)
+author.today##[href="/u/alexsawchuk"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/alexsawchuk"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href="/u/alimtyn"]:style(color:#980000 !important)
 author.today##[href*="/u/alimtyn/"]:style(color:#980000 !important)
@@ -721,6 +731,16 @@ author.today##[href*="/u/id243364664/"]:style(color:#980000 !important)
 author.today##[href="/u/id243364664"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/id243364664"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href="/u/id243794326"]:style(color:#980000 !important)
+author.today##[href*="/u/id243794326/"]:style(color:#980000 !important)
+author.today##[href="/u/id243794326"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/id243794326"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/id250374021"]:style(color:#980000 !important)
+author.today##[href*="/u/id250374021/"]:style(color:#980000 !important)
+author.today##[href="/u/id250374021"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/id250374021"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href="/u/id2530908501"]:style(color:#980000 !important)
 author.today##[href*="/u/id2530908501/"]:style(color:#980000 !important)
 author.today##[href="/u/id2530908501"] > .comment-user-name:style(color: #980000 !important)
@@ -1301,15 +1321,30 @@ author.today##[href*="/u/pensioner/"]:style(color:#980000 !important)
 author.today##[href="/u/pensioner"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/pensioner"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href="/u/perfectomobilnik"]:style(color:#980000 !important)
+author.today##[href*="/u/perfectomobilnik/"]:style(color:#980000 !important)
+author.today##[href="/u/perfectomobilnik"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/perfectomobilnik"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href="/u/petr_almazny"]:style(color:#980000 !important)
 author.today##[href*="/u/petr_almazny/"]:style(color:#980000 !important)
 author.today##[href="/u/petr_almazny"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/petr_almazny"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href="/u/pogremushok"]:style(color:#980000 !important)
+author.today##[href*="/u/pogremushok/"]:style(color:#980000 !important)
+author.today##[href="/u/pogremushok"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/pogremushok"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href="/u/potter324"]:style(color:#980000 !important)
 author.today##[href*="/u/potter324/"]:style(color:#980000 !important)
 author.today##[href="/u/potter324"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/potter324"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/professor_tulenyaka"]:style(color:#980000 !important)
+author.today##[href*="/u/professor_tulenyaka/"]:style(color:#980000 !important)
+author.today##[href="/u/professor_tulenyaka"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/professor_tulenyaka"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href="/u/rafaeldamirov"]:style(color:#980000 !important)
 author.today##[href*="/u/rafaeldamirov/"]:style(color:#980000 !important)
@@ -1385,6 +1420,11 @@ author.today##[href="/u/romana_greatfield"]:style(color:#980000 !important)
 author.today##[href*="/u/romana_greatfield/"]:style(color:#980000 !important)
 author.today##[href="/u/romana_greatfield"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/romana_greatfield"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/romanof"]:style(color:#980000 !important)
+author.today##[href*="/u/romanof/"]:style(color:#980000 !important)
+author.today##[href="/u/romanof"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/romanof"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href="/u/ronnenf"]:style(color:#980000 !important)
 author.today##[href*="/u/ronnenf/"]:style(color:#980000 !important)
@@ -1556,6 +1596,11 @@ author.today##[href*="/u/tatoshka_kortoshka/"]:style(color:#980000 !important)
 author.today##[href="/u/tatoshka_kortoshka"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/tatoshka_kortoshka"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
+author.today##[href="/u/tdzd"]:style(color:#980000 !important)
+author.today##[href*="/u/tdzd/"]:style(color:#980000 !important)
+author.today##[href="/u/tdzd"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/tdzd"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
 author.today##[href="/u/temney"]:style(color:#980000 !important)
 author.today##[href*="/u/temney/"]:style(color:#980000 !important)
 author.today##[href="/u/temney"] > .comment-user-name:style(color: #980000 !important)
@@ -1635,6 +1680,11 @@ author.today##[href="/u/ushanishe"]:style(color:#980000 !important)
 author.today##[href*="/u/ushanishe/"]:style(color:#980000 !important)
 author.today##[href="/u/ushanishe"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/ushanishe"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/vakc1232"]:style(color:#980000 !important)
+author.today##[href*="/u/vakc1232/"]:style(color:#980000 !important)
+author.today##[href="/u/vakc1232"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/vakc1232"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href="/u/valeriynovitskiy"]:style(color:#980000 !important)
 author.today##[href*="/u/valeriynovitskiy/"]:style(color:#980000 !important)
@@ -1790,6 +1840,11 @@ author.today##[href="/u/yaroslavmechnikov"]:style(color:#980000 !important)
 author.today##[href*="/u/yaroslavmechnikov/"]:style(color:#980000 !important)
 author.today##[href="/u/yaroslavmechnikov"] > .comment-user-name:style(color: #980000 !important)
 author.today##.profile-card > .clearfix:has(a[href="/u/yaroslavmechnikov"]):style(border-color: #5B0F00; border-style: ridge; !important)
+
+author.today##[href="/u/yespeace"]:style(color:#980000 !important)
+author.today##[href*="/u/yespeace/"]:style(color:#980000 !important)
+author.today##[href="/u/yespeace"] > .comment-user-name:style(color: #980000 !important)
+author.today##.profile-card > .clearfix:has(a[href="/u/yespeace"]):style(border-color: #5B0F00; border-style: ridge; !important)
 
 author.today##[href="/u/youra009"]:style(color:#980000 !important)
 author.today##[href*="/u/youra009/"]:style(color:#980000 !important)
